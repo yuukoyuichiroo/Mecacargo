@@ -137,6 +137,14 @@ a {
     border-radius: 20px;
 }
 
+.right-content-header {
+    display: flex;
+    align-items: center;
+}
+
+.right-content-header h1 {
+    margin: 0;
+}
 /* Add any additional styling as needed */
 
 /* Add any additional styling as needed */
