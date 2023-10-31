@@ -155,8 +155,8 @@ a {
 }
 
 .carlist img {
-    max-width: 100px;
-    max-height: 100px;
+    max-width: 200px;
+    max-height: 200px;
     margin: 0 10px; /* Adjust the margin as needed for spacing */
 }
 
